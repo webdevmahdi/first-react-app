@@ -1,0 +1,19 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.main{
+  background-color: rgb(205, 161, 161);
+  width: 1200px;
+  padding: 30px;
+  border-radius: 30px;
+}
+.name{
+  background-color: burlywood;
+  border: 2px solid blue;
+  border-radius: 20px;
+  margin: 20px;
+  padding: 20px;
+}
